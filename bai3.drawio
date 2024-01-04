@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T06:53:04.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="5jSX36949hva23Bng10U" version="22.1.15" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-04T06:54:12.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="-iEt4qXIX-tJW7xZ0Hcx" version="22.1.15" type="github" pages="5">
   <diagram name="Page-1" id="FQkPfA5mC1dS6UtXw3n_">
     <mxGraphModel dx="1009" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CEMQZBYS7fpswU3NSh3N" name="Biểu đồ luồng dữ liệu mức đỉnh">
-    <mxGraphModel dx="2523" dy="1473" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="1178" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -817,6 +817,14 @@
         <mxCell id="qhWMyi-KnuOvpbvNljvX-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.989;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qhWMyi-KnuOvpbvNljvX-12" target="pCDDKJ93Bc6HDpnRk6L0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QMBWPU9EbQA3Ix3nhtO7" name="biểu đồ dữ liệu mức 1">
+    <mxGraphModel dx="5045" dy="2945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="9900" pageHeight="9900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
