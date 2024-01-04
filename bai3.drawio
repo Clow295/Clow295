@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:31:26.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="jtzARsL24_zHoCaoxMlg" version="22.1.15" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-04T08:31:55.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0" etag="pPEuVOWOKU6sbqEQAdKE" version="22.1.15" type="github" pages="5">
   <diagram name="Page-1" id="FQkPfA5mC1dS6UtXw3n_">
     <mxGraphModel dx="1009" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1083,7 +1083,7 @@
         <mxCell id="pODPefNlQxEkEjZfbFKM-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="pODPefNlQxEkEjZfbFKM-79" target="pODPefNlQxEkEjZfbFKM-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pODPefNlQxEkEjZfbFKM-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="pODPefNlQxEkEjZfbFKM-79" target="pODPefNlQxEkEjZfbFKM-83">
+        <mxCell id="pODPefNlQxEkEjZfbFKM-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pODPefNlQxEkEjZfbFKM-79" target="pODPefNlQxEkEjZfbFKM-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pODPefNlQxEkEjZfbFKM-78" value="TT chuyển khoản" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-30;fontSize=14;" vertex="1" connectable="0" parent="pODPefNlQxEkEjZfbFKM-77">
