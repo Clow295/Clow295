@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T15:49:19.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="4bCQVgRtP7CV74uHA26B" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T15:49:27.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="-GuOXq3ZeRM1IyHezCx9" version="22.1.16" type="github">
   <diagram name="Page-1" id="ZZ_e5xYxg6d-odDxBFqS">
     <mxGraphModel dx="577" dy="337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="9900" pageHeight="9900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TDcikrPnBX_eVLRWOKGh-1" value="Rắn săn mồi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="459" y="113" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="113" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TDcikrPnBX_eVLRWOKGh-2" value="Play game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188" y="240" width="120" height="60" as="geometry" />
@@ -63,10 +63,10 @@
             <mxPoint x="653" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDcikrPnBX_eVLRWOKGh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.671;exitY=0.578;exitDx=0;exitDy=0;entryX=0.001;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="TDcikrPnBX_eVLRWOKGh-17">
+        <mxCell id="TDcikrPnBX_eVLRWOKGh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.671;exitY=0.578;exitDx=0;exitDy=0;entryX=0.001;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="518" y="206" as="sourcePoint" />
-            <mxPoint x="520" y="173" as="targetPoint" />
+            <mxPoint x="461.08400000000006" y="207.62400000000002" as="sourcePoint" />
+            <mxPoint x="461" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
